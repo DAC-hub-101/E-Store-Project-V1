@@ -1,0 +1,21 @@
+number, product_code, model, firm, price
+1,1234,Remak,n10,bmw,100
+2,2345,Okachvane,n20,mercedes,200
+3,2334,Amortisior,n20,mercedes,200
+4,4242,Gumi, n40, WW, 1000
+5,1241,Kalnin,n30,Subaru,2000
+6,0000,Guma,p90,Subaru,500
+7,4554,Brakedisk,o70,Volkswagen,150
+8,1111,Airfilter,l11,Suzuki,90
+9,4321,Endsprindlerod,vfg1000,Toyota,2259
+10,9999,Oilsystem,ik900,Skoda,124
+11,7777,Ignitionsystem,lkmj2,Peugeot,142
+12,1299,Fuelinjector,bmn100,Porsche,330
+13,8010,Schockabbsorber,suspension,Skoda,92
+14,0011,Timingbeltset,fuelsystem,Toyota,326
+15,7744,Brakedisc,driveshaft,Peugeot,82
+16,2010,Shortblockassembly,Engine,Volstwagen,2259
+17,6578,Fuelinjector,fuelsystem,Toyata,326
+18,4321,Intakemanifold,intakesystem,Daihatsu,1566
+19,3333,Clutchset, cluchsystem,Porchecayenne,3000
+20,2222,Fuelpressureregulator,ignition system,Mercedes,184
